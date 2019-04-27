@@ -53,7 +53,7 @@ Signed in users can:
 - Chat with friends
 
 ## Our Domain Model
-![Domain_Model][./Domain_Model.jpg]
+![Domain_Model](Domain_Model.png)
 
 ### The Technical Challenge
 
