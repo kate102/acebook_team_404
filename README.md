@@ -52,6 +52,9 @@ Signed in users can:
 - Reject friend requests
 - Chat with friends
 
+## Our Domain Model
+![Domain_Model][./Domain_Model.jpg]
+
 ### The Technical Challenge
 
 The challenge was to mirror the functionality of the popular social media site, Facebook.
